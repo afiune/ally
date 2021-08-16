@@ -3,7 +3,7 @@
 github.com/BurntSushi/toml
 # github.com/gorilla/websocket v1.4.2
 github.com/gorilla/websocket
-# github.com/lacework/go-sdk v0.10.0
+# github.com/lacework/go-sdk v0.13.0
 ## explicit
 github.com/lacework/go-sdk/lwlogger
 # github.com/mitchellh/go-homedir v1.1.0
